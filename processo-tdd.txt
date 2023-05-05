@@ -1,0 +1,9 @@
+No processo descrito, começamos escrevendo testes funcionais
+a fim de testar nosso sistema em um alto nível de abstração,
+no caso do teste falhar ou ainda ser necessário fazer 
+refatorações na aplicação, se passa para um segundo ciclo de
+desenvolvimento onde s criam teste unitários, no caso dele 
+passar ou ainda ser necessário refatorar a aplicação, se
+escreve código "mínimo" (em pequenos trechos). Em ambos os 
+ciclos, no caso de os testes passarem e não haver motivos
+para refatorar a aplicação, se sai do ciclo.
