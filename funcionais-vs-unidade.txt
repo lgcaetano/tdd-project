@@ -1,0 +1,8 @@
+1 - Devido ao fato de que testes funcionais envolvem o acionamento
+   da interface do usuário, eles tendem a ser mais lentos, pesados
+   em termos de memória e menos comuns que os testes de unidade, 
+   que são rápidos e leves
+
+2 - Devido à sua maior complexidade, testes funcionais tendem a ser
+  mais difíceis de se manter e escrever do que os testes de unidade,
+  que são consideravelmente mais simples
